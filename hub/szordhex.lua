@@ -1,5 +1,5 @@
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
-local Window = OrionLib:MakeWindow({Name = "Szordhex Hub - Boxing Beta", HidePremium = false, SaveConfig = true, IntroEnabled = true, IntroText = "Welcome Szordrin Hub"})
+local Window = OrionLib:MakeWindow({Name = "Szordhex Hub - Boxing Beta", HidePremium = false, SaveConfig = true, IntroEnabled = true, IntroText = "Welcome Szordhex Hub"})
 
 local Tab = Window:MakeTab({
 	Name = "Misc",
